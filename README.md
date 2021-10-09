@@ -3,7 +3,8 @@
 <h3 align="center">Appointy Tech Task Sudhanshu Agarwal</h3>
 
   <p align="left">
-    Instagram Backend API has been made using Golang and Mongodb
+    Instagram Backend API has been made using Golang and Mongodb<br>
+    The logo displayed above was made by Looka (https://looka.com)
     <br/>
     </p>
 
