@@ -37,8 +37,7 @@
 ## About The Task
 The task was to develop a basic version of Instagram API. We were only required to develop the API for the
 system<br>
-<p align="center"><img src="https://user-images.githubusercontent.com/62510908/136662244-e83da4a9-824f-4c50-9d12-22ada0a4299b.png" width="600px"></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/62510908/136662276-bdd85e57-c79b-427f-b52b-3658f7049a08.png" width="600px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/62510908/136662847-352742c8-08e2-47b9-93a0-4229bdb76ad1.png" width="600px"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/62510908/136662278-c8564b48-fd44-4a2e-bfbf-2cd9a361a81c.png" width="600px"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/62510908/136662279-091a79ee-ccec-4fc4-885e-499aba81ae7f.png" width="600px"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/62510908/136662280-e6948ce9-2310-4bb2-8421-1cf4fc0ad6f5.png" width="600px"></p>
