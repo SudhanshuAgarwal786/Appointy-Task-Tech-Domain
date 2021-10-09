@@ -1,5 +1,5 @@
 <div id="top"></div>
-
+<p align="center"><img src="https://user-images.githubusercontent.com/62510908/136662188-20273787-1bc8-41a4-91b8-e8cfb947b612.png" width="600px"></p>
 <h3 align="center">Appointy Tech Task Sudhanshu Agarwal</h3>
 
   <p align="left">
@@ -33,10 +33,15 @@
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
+<!-- ABOUT THE TASK -->
 ## About The Task
 The task was to develop a basic version of Instagram API. We were only required to develop the API for the
 system<br>
+<p align="center"><img src="https://user-images.githubusercontent.com/62510908/136662244-e83da4a9-824f-4c50-9d12-22ada0a4299b.png" width="600px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/62510908/136662276-bdd85e57-c79b-427f-b52b-3658f7049a08.png" width="600px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/62510908/136662278-c8564b48-fd44-4a2e-bfbf-2cd9a361a81c.png" width="600px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/62510908/136662279-091a79ee-ccec-4fc4-885e-499aba81ae7f.png" width="600px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/62510908/136662280-e6948ce9-2310-4bb2-8421-1cf4fc0ad6f5.png" width="600px"></p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -85,7 +90,7 @@ This is a list of required softwares\languages\frameworks required to run this p
    ```
 5. Open Postman on your machine
 
-6. Now in your workspace type the URLs mentioned and test them for different POST & GET API calls.
+6. Now in your workspace type the URLs mentioned in the screenshots and test them for different POST & GET API calls.
    
 <p align="right">(<a href="#top">back to top</a>)</p>
 
