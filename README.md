@@ -4,6 +4,7 @@
 
   <p align="left">
     Instagram Backend API has been made using Golang and Mongodb<br>
+  <H2>SHA 256 Algorithm has been used for hashing the password as we were instructed to encrypt it </H2>
     The logo displayed above was made by Looka (https://looka.com)
     <br/>
     </p>
